@@ -1,0 +1,26 @@
+Enter radius of body 1(m)
+>> 227592000
+
+Enter radius of body 2(m)
+>> 116858400
+
+Enter geeASL of body 1
+>> 11.24
+
+Enter geeASL of body 2
+>> 14.87
+
+Enter the distance between the two bodies (m)
+>> 1137960000
+
+The mass of Body 1 is: 8.5574344179e+28kg
+The mass of Body 2 is: 2.9846549039e+28kg
+Mass of the barycenter is: 1.1542089322e+29kg
+
+SMA of body 1 (m): 294263698.688998
+SMA of body 2 (m): 843696301.311002
+The SMA is relative to the barycenter
+
+Note* : You might want to use these SMAs as SOI sizes for your bodies to avoid overlapping and problems the game might face.
+
+notes for upcoming star system 
